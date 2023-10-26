@@ -1,8 +1,15 @@
-API
-===
+u-LocateEngine API
+==================
 
-MQTT API Documentation
-======================
+Interaction with u-LocateEngine can be achieved using the following application interface and data types. This section describes what u-LocateEngine is expected to provide.
+
+Connection Types
+================
+
+u-LocateEngine supports the MQTT protocol through the deployment of an MQTT Broker. Interaction with the MQTT Broker can be achieved using MQTT clients.
+
+MQTT API
+========
 
 This documentation provides an overview of the MQTT API topics and their respective operations.
 
