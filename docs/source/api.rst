@@ -39,7 +39,7 @@ Provision/Anchor/Update
 
 **Update Anchor**
 
-Update an existing anchor or create a new one in case the anchor doesn't exist via MQTT.
+Update an existing anchor via MQTT, or create a new one if the anchor doesn't exist.
 
 Provision/Anchor/Delete
 -----------------------
