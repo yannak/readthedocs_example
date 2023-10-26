@@ -39,7 +39,7 @@ Provision/Anchor/Update
 
 **Update Anchor**
 
-Update an existing anchor via MQTT.
+Update an existing anchor or create a new one in case the anchor doesn't exist via MQTT.
 
 Provision/Anchor/Delete
 -----------------------
@@ -72,16 +72,16 @@ Receive notifications when an anchor is deleted.
 Provision/Anchor/GetRequest
 ---------------------------
 
-**Get Anchor Details Request**
+**Get Anchors List Request**
 
-Request anchor details via MQTT.
+Request the list of anchors via MQTT.
 
 Provision/Anchor/Get
 ---------------------
 
-**Get Anchor Details**
+**Get Anchors Details**
 
-Retrieve anchor details via MQTT.
+Retrieve the list of anchors via MQTT.
 
 BeaconsBlackList/GetRequest
 ---------------------------
